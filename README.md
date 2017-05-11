@@ -24,6 +24,7 @@ The database connection could be changed as needed in the main(). ex: library an
 
 ------
 [Future Updates]
+
 Some possible things I can add to this program is to add try and catch for error handling.
 Minimizing and optimizing database storage and insert.
 
