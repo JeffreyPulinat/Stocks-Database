@@ -30,21 +30,15 @@ Minimizing and optimizing database storage and insert.
 ------
 [SQL TABLE]
 
+
 CREATE TABLE StockCompList5 (
 
     Ticker varchar(14) NOT NULL,
-    
     CompanyName varchar(200) NOT NULL,
-    
 	LastSale float,
-	
 	MarketCap varchar(14),
-	
 	IPOyear smallint,
-	
 	Sector varchar(200),
-	
 	Industry varchar(200),
-	
 	Market varchar(14)
 );
